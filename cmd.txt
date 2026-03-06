@@ -27,6 +27,8 @@ Use auto config? → pilih n (PENTING!)
 ===
 rclone authorize "drive" "eyJzY29wZSI6ImRyaXZlIn0"
 
+eyJ0b2tlbiI6IntcImFjY2Vzc190b2tlblwiOlwieWEyOS5hMEFUa29DYzRJM3g1MFZUbERGbTdYakNydDVaVWhRMEZEeUZzczNqaWpndzlTdTRiWXFMdExqR3I5aTJXbVBvY3QtTm5SYUJqSXNZcnN1cE5MRVNTSldzbzRUT2o3UF9DZ0cxOGJ3ZkVrV2xrV2RyUWxHRFV5cnBPMDJDb25ZNDloelpJSkN2SnFNRXBzNndVNHJMMVQxMF9aVEVzdEF2X1d3Qmdyek92ejNkUjVKN19PTWxINVZjWWV3Y1RFUTJtRVRXaFA3OU1hQ2dZS0FVNFNBUk1TRlFIR1gyTWlDOG5vd3JyZWktb2hVamc4cExZeExnMDIwNlwiLFwidG9rZW5fdHlwZVwiOlwiQmVhcmVyXCIsXCJyZWZyZXNoX3Rva2VuXCI6XCIxLy8wZ0piN2RyclA5QTdpQ2dZSUFSQUFHQkFTTndGLUw5SXJTLXQ3SFpQYm9JLWVnUTVucnRmN29pWU5naXZYYnY3QlFGS1BiZWdqMWxhTmlscHFXSVRYS2UxR2pqa3RqNnltbkpjXCIsXCJleHBpcnlcIjpcIjIwMjYtMDMtMDZUMTY6MTM6MzUuNjExMzcxKzA3OjAwXCIsXCJleHBpcmVzX2luXCI6MzU5OX0ifQ
+
 di pc real kita
 ===
 
@@ -43,4 +45,8 @@ rm -rf output/*
 
 rm -rf cache/* output/*
 
-WidevineDecryptor: Found key: 33471cc084bb1cb39e29cfbb3b5166fd (KID=db1bfbe70debcc599768ab38a66631f7)
+WidevineDecryptor: Found key: 248bf6caa51d72f548c043aadeadad17 (KID=12874913dd3be5372254c36b467932a5)
+
+==============================================
+
+pip install telethon tqdm pymediainfo
